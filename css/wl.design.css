@@ -42,7 +42,72 @@
   background-color: rgb(144,178,250);
   color: white;
 }
+.wl-color-bg-yellow {.wl-text {
+  padding: 8px;
+  border-radius: 18px;
+  border-style: none;
+  outline-style: none;
+}
+
+.wl-btn {
+  padding: 4px;
+  border-radius: 8px;
+  boeder-style: none;
+  outline-style: none;
+  border: 3px soild;
+}
+
+.wl-color-bg-green {
+  background-color: green;
+  color: white;
+}
+.wl-color-bg-light-green {
+  background-color: rgb(150,255,150);
+}
+.wl-color-bg-complextion {
+  background-color: #E9D5A0;
+}
+.wl-color-bg-grey {
+  background-color: rgb(190,190,190);
+}
+.wl-color-bg-black {
+  background-color: black;
+  color: white;
+}
+.wl-color-bg-orange {
+  background-color: DarkGoldenRod;
+  color: white;
+}
+.wl-color-bg-blue {
+  background-color: rgb(99,156,243);
+  color: white;
+}
+.wl-color-bg-light-blue {
+  background-color: rgb(144,178,250);
+  color: white;
+}
 .wl-color-bg-yellow {
+  background-color: rgb(245,189,34);
+  color: white;
+}
+.wl-color-bg-red-green {
+  background-image: linear-gradient(#FF0005, #05FF00);
+}
+.wl-color-bg-red-blue {
+  background-image: linear-gradient(#FF0005, #0005FF);
+}
+.wl-color-bg-green-blue {
+  background-image: linear-gradient(#05FF00, #0005FF);
+}
+.wl-color-bg-green-red {
+  background-image: linear-gradient(#05FF00, #FF0005);
+}
+.wl-color-bg-blue-green{
+  background-image: linear-gradient(#0005FF, #05FF00);
+}
+.wl-color-bg-blue-red {
+  background-image: linear-gradient(#0005FF, #FF0005);
+}
   background-color: rgb(245,189,34);
   color: white;
 }
